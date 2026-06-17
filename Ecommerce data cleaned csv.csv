@@ -1,0 +1,103 @@
+ID,Customer_Name,Order_ID,Order_Date,Product,Category,Quantity,Price,Payment_Method,Status,Total,Month,Month_number,Weekday,Final_Status,Day_Type,Weekday_number
+100,Customer_100,ORD-41285,11/22/2024,Blender,Home,3,38,Cash on Delivery,Shipped,114,November,11,Friday,valid,Weekday,5
+101,Customer_101,ORD-35783,7/5/2025,Smartphone,Electronics,2,0,PayPal,Processing,0,July,7,Saturday,anomaly,Weekend,6
+102,Customer_102,ORD-84355,12/23/2024,Tennis Racket,Sports,1,389,PayPal,Delivered,389,December,12,Monday,valid,Weekday,1
+103,Customer_103,ORD-57811,3/19/2025,Science,Books,5,234,PayPal,Processing,1170,March,3,Wednesday,valid,Weekday,3
+104,Customer_104,ORD-93614,10/20/2025,Biography,Books,1,553,Cash on Delivery,Processing,553,October,10,Monday,valid,Weekday,1
+105,Customer_105,ORD-22442,11/20/2024,Tennis Racket,Sports,3,122,Cash on Delivery,Cancelled,366,November,11,Wednesday,valid,Weekday,3
+106,Customer_106,ORD-25885,2/2/2025,Blender,Home,0,979,Bank Transfer,Processing,0,February,2,Sunday,anomaly,Weekend,7
+107,Customer_107,ORD-89122,1/3/2025,Biography,Books,5,588,PayPal,Returned,2940,January,1,Friday,valid,Weekday,5
+108,Customer_108,ORD-64400,10/23/2025,Science,Books,1,600,Cash on Delivery,Processing,600,October,10,Thursday,valid,Weekday,4
+109,Customer_109,ORD-18512,5/3/2025,Tennis Racket,Sports,5,168,Credit Card,Shipped,840,May,5,Saturday,valid,Weekend,6
+110,Customer_110,ORD-61020,9/26/2025,Basketball,sports,5,0,Cash on Delivery,Cancelled,0,September,9,Friday,anomaly,Weekday,5
+111,Customer_111,ORD-72349,10/22/2025,Comics,Books,2,866,Credit Card,Returned,1732,October,10,Wednesday,valid,Weekday,3
+112,Customer_112,ORD-80867,3/2/2025,Shoes,Clothing,4,752,Bank Transfer,Delivered,3008,March,3,Sunday,valid,Weekend,7
+113,Customer_113,ORD-23994,7/24/2025,Fiction,Books,1,412,Credit Card,Processing,412,July,7,Thursday,valid,Weekday,4
+114,Customer_114,ORD-77417,1/5/2023,Smartphone,Electronics,2,413,Cash on Delivery,Shipped,826,January,1,Thursday,valid,Weekday,4
+115,Customer_115,ORD-72778,1/10/2025,Fiction,Books,2,797,Cash on Delivery,Returned,1594,January,1,Friday,valid,Weekday,5
+116,Customer_116,ORD-63660,10/30/2025,Microwave,Home,4,0,Cash on Delivery,Processing,0,October,10,Thursday,anomaly,Weekday,4
+117,Customer_117,ORD-72751,2/12/2025,Blender,Electronics,-2,10000,Cash on Delivery,Processing,-20000,February,2,Wednesday,anomaly,Weekday,3
+118,Customer_118,ORD-96061,5/31/2025,Science,Books,5,248,PayPal,Processing,1240,May,5,Saturday,valid,Weekend,6
+119,Customer_119,ORD-76016,12/19/2024,Basketball,Sports,4,438,Cash on Delivery,Processing,1752,December,12,Thursday,valid,Weekday,4
+120,Customer_120,ORD-14659,6/13/2025,Yoga Mat,Electronics,5,0,Credit Card,Cancelled,0,June,6,Friday,anomaly,Weekday,5
+121,Customer_121,ORD-80067,10/11/2025,Basketball,Sports,4,523,Credit Card,Delivered,2092,October,10,Saturday,valid,Weekend,6
+122,Customer_122,ORD-21443,5/16/2025,Microwave,Home,2,557,PayPal,Shipped,1114,May,5,Friday,valid,Weekday,5
+123,Customer_123,ORD-11314,10/6/2025,Vacuum,Electronics,3,616,Cash on Delivery,Cancelled,1848,October,10,Monday,valid,Weekday,1
+124,Customer_124,ORD-46136,5/31/2025,Comics,Books,5,0,PayPal,Cancelled,0,May,5,Saturday,anomaly,Weekend,6
+125,Customer_125,ORD-23202,2/9/2025,Comics,Books,4,766,PayPal,Shipped,3064,February,2,Sunday,valid,Weekend,7
+126,Customer_126,ORD-11261,5/18/2025,Shoes,Clothing,4,837,Bank Transfer,Cancelled,3348,May,5,Sunday,valid,Weekend,7
+127,Customer_127,ORD-65482,5/12/2025,Blender,Home,5,336,Bank Transfer,Returned,1680,May,5,Monday,valid,Weekday,1
+128,Customer_128,ORD-12270,11/10/2024,Lamp,Electronics,3,899,Bank Transfer,Delivered,2697,November,11,Sunday,valid,Weekend,7
+129,Customer_129,ORD-48863,6/22/2025,Science,Books,4,737,Bank Transfer,Returned,2948,June,6,Sunday,valid,Weekend,7
+130,Customer_130,ORD-34007,8/15/2025,Tennis Racket,Sports,2,0,Bank Transfer,Processing,0,August,8,Friday,anomaly,Weekday,5
+131,Customer_131,ORD-91396,6/11/2025,Lamp,Home,5,617,PayPal,Shipped,3085,June,6,Wednesday,valid,Weekday,3
+132,Customer_132,ORD-40186,4/2/2025,Yoga Mat,Electronics,1,267,PayPal,Delivered,267,April,4,Wednesday,valid,Weekday,3
+133,Customer_133,ORD-68182,12/5/2024,Biography,Unknown,5,343,Credit Card,Shipped,1715,December,12,Thursday,valid,Weekday,4
+134,Customer_134,ORD-16585,10/4/2025,T-shirt,Clothing,-5,592,PayPal,Shipped,-2960,October,10,Saturday,anomaly,Weekend,6
+135,Customer_135,ORD-33656,2/9/2025,Smartwatch,Electronics,4,446,Cash on Delivery,Cancelled,1784,February,2,Sunday,valid,Weekend,7
+136,Customer_136,ORD-20985,6/12/2025,Headphones,Unknown,1,697,Credit Card,Delivered,697,June,6,Thursday,valid,Weekday,4
+137,Customer_137,ORD-91254,2/23/2025,Vacuum,Home,3,-100,Cash on Delivery,Delivered,-300,February,2,Sunday,anomaly,Weekend,7
+138,Customer_138,ORD-34319,8/9/2025,Lamp,Home,1,531,PayPal,Processing,531,August,8,Saturday,valid,Weekend,6
+139,Customer_139,ORD-38418,2/9/2025,Smartphone,Electronics,2,681,Credit Card,Cancelled,1362,February,2,Sunday,valid,Weekend,7
+140,Customer_140,ORD-67096,2/26/2025,Fiction,Books,4,589,Credit Card,Returned,2356,February,2,Wednesday,valid,Weekday,3
+141,Customer_141,ORD-45059,2/13/2025,Fiction,Books,3,546,Cash on Delivery,Returned,1638,February,2,Thursday,valid,Weekday,4
+142,Customer_142,ORD-69018,10/30/2025,Shoes,Clothing,5,645,Credit Card,Shipped,3225,October,10,Thursday,valid,Weekday,4
+143,Customer_143,ORD-14329,7/11/2025,T-shirt,Clothing,5,827,Bank Transfer,Cancelled,4135,July,7,Friday,valid,Weekday,5
+144,Customer_144,ORD-89452,1/27/2025,Football,Sports,5,849,Bank Transfer,Processing,4245,January,1,Monday,valid,Weekday,1
+145,Customer_145,ORD-75314,5/1/2023,Laptop,Electronics,2,861,Bank Transfer,Returned,1722,May,5,Monday,valid,Weekday,1
+146,Customer_146,ORD-32755,7/9/2025,Basketball,Electronics,2,705,Bank Transfer,Processing,1410,July,7,Wednesday,valid,Weekday,3
+147,Customer_147,ORD-80707,5/1/2025,Jacket,Clothing,4,596,Cash on Delivery,Shipped,2384,May,5,Thursday,valid,Weekday,4
+148,Customer_148,ORD-38423,3/13/2025,Tennis Racket,Sports,1,661,Cash on Delivery,Returned,661,March,3,Thursday,valid,Weekday,4
+149,Customer_149,ORD-95911,6/29/2025,Comics,Books,5,896,Bank Transfer,Cancelled,4480,June,6,Sunday,valid,Weekend,7
+150,Customer_150,ORD-76902,11/27/2024,Yoga Mat,Sports,1,206,Credit Card,Returned,206,November,11,Wednesday,valid,Weekday,3
+151,Customer_151,ORD-56552,7/1/2025,Comics,Books,2,457,PayPal,Processing,914,July,7,Tuesday,valid,Weekday,2
+152,Customer_152,ORD-72869,9/22/2025,Lamp,Home,3,233,PayPal,Returned,699,September,9,Monday,valid,Weekday,1
+153,Customer_153,ORD-29721,7/16/2025,Yoga Mat,Sports,4,279,Cash on Delivery,Processing,1116,July,7,Wednesday,valid,Weekday,3
+154,Customer_154,ORD-95990,2/21/2025,Blender,Home,5,790,Cash on Delivery,Cancelled,3950,February,2,Friday,valid,Weekday,5
+155,Customer_155,ORD-20182,5/1/2025,shoes,Clothing,1,41,PayPal,Returned,41,May,5,Thursday,valid,Weekday,4
+156,Customer_156,ORD-34679,11/28/2024,Jeans,Clothing,2,0,Bank Transfer,Shipped,0,November,11,Thursday,anomaly,Weekday,4
+157,Customer_157,ORD-34407,11/6/2025,Jacket,Clothing,4,275,Bank Transfer,Processing,1100,November,11,Thursday,valid,Weekday,4
+158,Customer_158,ORD-35817,4/5/2025,Smartwatch,Electronics,1,934,Cash on Delivery,Shipped,934,April,4,Saturday,valid,Weekend,6
+159,Customer_159,ORD-98162,7/28/2025,Microwave,Home,3,163,PayPal,Shipped,489,July,7,Monday,valid,Weekday,1
+160,Customer_160,ORD-96037,1/3/2025,Science,Books,5,243,Cash on Delivery,Returned,1215,January,1,Friday,valid,Weekday,5
+161,Customer_161,ORD-27653,12/15/2024,Science,Books,4,209,Bank Transfer,Shipped,836,December,12,Sunday,valid,Weekend,7
+162,Customer_162,ORD-27743,5/19/2025,Blender,Home,2,156,Credit Card,Returned,312,May,5,Monday,valid,Weekday,1
+163,Customer_163,ORD-24378,1/5/2023,Smartwatch,Electronics,3,235,Cash on Delivery,Shipped,705,January,1,Thursday,valid,Weekday,4
+164,Customer_164,ORD-23010,2/9/2025,Tennis Racket,Sports,0,588,Credit Card,Returned,0,February,2,Sunday,anomaly,Weekend,7
+165,Customer_165,ORD-55695,11/8/2024,Shoes,Clothing,2,443,Credit Card,Delivered,886,November,11,Friday,valid,Weekday,5
+166,Customer_166,ORD-97756,7/3/2025,T-shirt,Electronics,2,569,Cash on Delivery,Shipped,1138,July,7,Thursday,valid,Weekday,4
+167,Customer_167,ORD-30329,8/7/2025,Basketball,Sports,0,594,Cash on Delivery,Processing,0,August,8,Thursday,anomaly,Weekday,4
+168,Customer_168,ORD-53430,11/4/2025,Biography,Books,2,141,PayPal,Cancelled,282,November,11,Tuesday,valid,Weekday,2
+169,Customer_169,ORD-75539,8/12/2025,Basketball,Sports,1,582,Credit Card,Returned,582,August,8,Tuesday,valid,Weekday,2
+170,Customer_170,ORD-21530,10/3/2025,Jeans,Clothing,5,742,Bank Transfer,Processing,3710,October,10,Friday,valid,Weekday,5
+171,Customer_171,ORD-99790,12/6/2024,Shoes,Clothing,3,689,PayPal,Processing,2067,December,12,Friday,valid,Weekday,5
+172,Customer_172,ORD-48008,11/18/2024,Comics,Books,2,943,Bank Transfer,Returned,1886,November,11,Monday,valid,Weekday,1
+173,Customer_173,ORD-42171,10/11/2025,Lamp,Home,5,352,Credit Card,Shipped,1760,October,10,Saturday,valid,Weekend,6
+174,Customer_174,ORD-16766,9/20/2025,Microwave,Electronics,4,187,Credit Card,Returned,748,September,9,Saturday,valid,Weekend,6
+175,Customer_175,ORD-56651,2/24/2025,Headphones,Electronics,1,111,Credit Card,Processing,111,February,2,Monday,valid,Weekday,1
+176,Customer_176,ORD-95794,7/22/2025,Comics,Books,5,531,Cash on Delivery,Shipped,2655,July,7,Tuesday,valid,Weekday,2
+177,Customer_177,ORD-64136,7/28/2025,Laptop,Electronics,1,69,Bank Transfer,Returned,69,July,7,Monday,valid,Weekday,1
+178,Customer_178,ORD-89906,9/18/2025,Tennis Racket,Sports,3,472,PayPal,Returned,1416,September,9,Thursday,valid,Weekday,4
+179,Customer_179,ORD-99328,9/3/2025,Yoga Mat,Sports,3,869,PayPal,Delivered,2607,September,9,Wednesday,valid,Weekday,3
+180,Customer_180,ORD-86629,3/26/2025,Laptop,Unknown,2,418,Credit Card,Processing,836,March,3,Wednesday,valid,Weekday,3
+181,Customer_181,ORD-54481,12/29/2024,Smartphone,Unknown,1,266,Cash on Delivery,Cancelled,266,December,12,Sunday,valid,Weekend,7
+182,Customer_182,ORD-79672,8/3/2025,Shoes,Unknown,4,538,PayPal,Processing,2152,August,8,Sunday,valid,Weekend,7
+183,Customer_183,ORD-20916,3/10/2025,Shoes,Clothing,5,0,Cash on Delivery,Returned,0,March,3,Monday,anomaly,Weekday,1
+184,Customer_184,ORD-67799,2/15/2025,Jeans,Unknown,4,101,Bank Transfer,Processing,404,February,2,Saturday,valid,Weekend,6
+185,Customer_185,ORD-57123,8/14/2025,Football,Sports,2,731,Cash on Delivery,Cancelled,1462,August,8,Thursday,valid,Weekday,4
+186,Customer_186,ORD-90569,10/6/2025,Laptop,Electronics,1,365,Bank Transfer,Delivered,365,October,10,Monday,valid,Weekday,1
+187,Customer_187,ORD-41292,11/19/2024,Smartphone,Electronics,3,883,Bank Transfer,Returned,2649,November,11,Tuesday,valid,Weekday,2
+188,Customer_188,ORD-58590,11/19/2024,Microwave,Home,5,504,Cash on Delivery,Shipped,2520,November,11,Tuesday,valid,Weekday,2
+189,Customer_189,ORD-30627,8/14/2025,Lamp,Home,1,815,Cash on Delivery,Returned,815,August,8,Thursday,valid,Weekday,4
+190,Customer_190,ORD-38469,6/29/2025,Vacuum,Home,1,920,Bank Transfer,Processing,920,June,6,Sunday,valid,Weekend,7
+191,Customer_191,ORD-41810,7/18/2025,Fiction,Books,2,881,Cash on Delivery,Returned,1762,July,7,Friday,valid,Weekday,5
+192,Customer_192,ORD-35144,,Jacket,Clothing,0,204,Credit Card,Returned,0,,,,anomaly,Weekday,
+193,Customer_193,ORD-42475,6/6/2025,Basketball,Unknown,0,522,PayPal,Shipped,0,June,6,Friday,anomaly,Weekday,5
+194,Customer_194,ORD-69764,2/10/2025,Lamp,Home,5,945,Cash on Delivery,Returned,4725,February,2,Monday,valid,Weekday,1
+195,Customer_195,ORD-82876,6/19/2025,Biography,Books,5,817,Cash on Delivery,Returned,4085,June,6,Thursday,valid,Weekday,4
+196,Customer_196,ORD-78384,12/23/2024,Vacuum,Home,0,0,PayPal,Delivered,0,December,12,Monday,anomaly,Weekday,1
+197,Customer_197,ORD-79139,6/23/2025,Blender,Home,1,160,PayPal,Cancelled,160,June,6,Monday,valid,Weekday,1
+198,Customer_198,ORD-14608,7/27/2025,Vacuum,Unknown,2,497,Cash on Delivery,Shipped,994,July,7,Sunday,valid,Weekend,7
+199,Customer_199,ORD-82922,1/22/2025,Blender,Home,5,372,Credit Card,Shipped,1860,January,1,Wednesday,valid,Weekday,3
+175,Customer_175,ORD-56651,2/24/2025,Headphones,Electronics,1,111,Credit Card,Processing,111,February,2,Monday,valid,Weekday,1
+142,Customer_142,ORD-69018,10/30/2025,Shoes,Clothing,5,645,Credit Card,Shipped,3225,October,10,Thursday,valid,Weekday,4
